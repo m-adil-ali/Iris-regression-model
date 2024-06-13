@@ -1,3 +1,6 @@
+- This Repository consists of ML practices.
+
+
 # Linear Regression model on Iris dataset
 ## Step-by-step process.
 1. Import Libraries
